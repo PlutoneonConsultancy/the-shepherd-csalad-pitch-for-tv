@@ -1,5 +1,5 @@
-# This repository holds content for the Subject: Pitch for TV Show - A Shepherd Család (The Shepherd Family)website.
-# Recommendation from Plutoneon Consultancy's Managing Director, Andrew J. Shepherd**
+This repository holds content for the Subject: Pitch for TV Show - A Shepherd Család (The Shepherd Family) website.
+Recommendation from Plutoneon Consultancy's Managing Director, Andrew J. Shepherd**
 
 I wholeheartedly endorse "A Shepherd Család" as an exceptional television series project. The unique narrative, rich character development, and thematic depth showcased in the pitch are truly remarkable.
 
