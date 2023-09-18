@@ -7191,17 +7191,17 @@ input, select, textarea {
 		}
 
 		.gallery.lightbox .modal.loaded:before {
-			-moz-transition-delay: 0s;
-			-webkit-transition-delay: 0s;
-			-ms-transition-delay: 0s;
-			transition-delay: 0s;
+			-moz-transition-delay: 1.5s;
+			-webkit-transition-delay: 1.5s;
+			-ms-transition-delay: 1.5s;
+			transition-delay: 1.5s;
 			opacity: 0;
 		}
 
 	@media screen and (max-width: 980px) {
 
 		.gallery.lightbox .modal .inner img {
-			max-width: 100vw;
+			max-width: 50vw;
 		}
 
 	}
